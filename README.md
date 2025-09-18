@@ -23,6 +23,3 @@ We broke down the problem into sub-problems and modeled the system using **use c
 This was a **group project** developed with fellow Computer Systems Engineering students.  
 Each member contributed to modeling, documentation, and system design.
 
-## 🚀 How to View
-- Check the `/docs/` folder for all diagrams and requirement documents.
-- Explore the `/reports/` folder for the complete write-up.
